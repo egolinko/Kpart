@@ -1,0 +1,6 @@
+export(
+part
+)
+exportPattern("^[[:alpha:]]+")
+import(leaps)
+importFrom("stats", "coef")
